@@ -1,0 +1,6 @@
+{
+  "name": "LearnAI",
+  "description": "An interactive AI-powered learning dashboard where students can track progress, take custom AI-generated quizzes, and chat with an AI study companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
